@@ -32,4 +32,5 @@ function layOutDay(events) {
  // Implement me
 }
 
-window.layOutDay = layOutDay```
+window.layOutDay = layOutDay
+```
